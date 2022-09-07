@@ -1,4 +1,4 @@
-# LaTeX-thesis-template
+# LaTeX Thesis Template
 
 The Word template I used for my thesis
 
